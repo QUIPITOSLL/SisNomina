@@ -15,14 +15,14 @@ Abre **dos terminales** en VS Code.
 
     cd backend
     npm install
-    npm run seed      # crea la base de datos con 4 usuarios de ejemplo
-    npm run dev       # API en http://localhost:3001
+    npm run seed      # base de datos con 4 usuarios
+    npm run dev      
 
 **Terminal 2 — frontend**
 
     cd frontend
     npm install
-    npm run dev       # abre http://localhost:5173
+    npm run dev       
 
 ## Usuarios de ejemplo
 
